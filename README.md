@@ -16,6 +16,7 @@
 - ✏️ Learning
     - Godot Engine *(Started on Feb 17, 2026)*
     - Rust *(Started on Feb 25, 2026)*
+    - Java *(Started on Feb 28, 2026)*
 
 ### My Featured Projects
 - Let me decide what to put here first...
